@@ -20,6 +20,12 @@
 
 ---
 
+<div align="center">
+  <img src="./assets/readme-preview.png" alt="QuizGenAI — Project Preview" width="100%" />
+</div>
+
+---
+
 ## 1. Project Overview & Hackathon Recognition
 
 **QuizGenAI** was built during a competitive Hackathon where it secured **🥈 2nd Prize**. The project addresses the limitations of static question banks by generating high-fidelity, adaptive quizzes from open-ended prompts, topic constraints, and uploaded document materials.
