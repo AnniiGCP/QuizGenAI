@@ -62,7 +62,7 @@ def _mock_insight_chain(quiz_data: str, user_answers: str):
     }
 
 
-def _mock_explain_chain(context: str, question: str):
+def _mock_explain_chain(context: str, question: str, task: str = "explain"):
     return f"Explanation for: {question} (context: {context[:40]})"
 
 
